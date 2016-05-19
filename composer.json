@@ -1,0 +1,21 @@
+{
+    "name": "artemsway/commerceml",
+    "homepage": "https://github.com/artemsway/commerceml",
+    "description": "Package for parsing CommerceML2 files.",
+    "keywords": ["commerceml", "1c"],
+    "license": "MIT",
+    "authors": [
+        {
+            "homepage": "https://github.com/ArtemsWay",
+            "name": "Artem Miroshnichenko",
+            "email": "artemsway@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "ArtemsWay\\CommerceML\\": "src"
+        }
+    },
+    "minimum-stability": "dev",
+    "require": {}
+}
